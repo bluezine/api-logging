@@ -1,0 +1,9 @@
+
+spring:
+  mvc:
+    servlet:
+      path: /api/v1
+
+logging:
+  level:
+    root: info
